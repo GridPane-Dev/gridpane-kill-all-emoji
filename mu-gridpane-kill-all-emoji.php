@@ -19,11 +19,11 @@ Author URI: http://github.com/JeffCleverley
  * @wordpress-plugin
  * Plugin Name:     GridPane Kill All Emoji
  * Plugin URI:      https://gridpane.com
- * Description:     Kill ALL Emoji! Burn them, burn them with fire!!!
+ * Description:     Kill ALL Emoji!
  * Version:         0.1.0
  * Author:          Jeff Cleverley
- * Author URI:      http://github.com/JeffCleverley
- * Author URI:      https://github.com/JeffCleverley/KillAllEmoji
+ * Author URI:      https://github.com/GridPane-Dev
+ * Author URI:      https://github.com/GridPane-Dev
  * License:         GPL-2.0+
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.txt
  */
