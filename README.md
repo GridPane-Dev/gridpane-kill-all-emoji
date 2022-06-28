@@ -1,3 +1,3 @@
 Upload directory to mu-plugins
 
-Copy mu-*-.php file directly to mu-plugins directory
+Copy mu-gridpane-*-.php file directly to mu-plugins directory
